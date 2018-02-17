@@ -1,2 +1,1 @@
-# Rosalind
-Bioinformatics Problems
+# Rosalind Bioinformatics Problems (Java)
